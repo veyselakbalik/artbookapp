@@ -14,6 +14,7 @@
 		73FB4C4C2959FD6A007484DB /* ArtBookApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 73FB4C4A2959FD6A007484DB /* ArtBookApp.xcdatamodeld */; };
 		73FB4C4E2959FD6B007484DB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 73FB4C4D2959FD6B007484DB /* Assets.xcassets */; };
 		73FB4C512959FD6B007484DB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 73FB4C4F2959FD6B007484DB /* LaunchScreen.storyboard */; };
+		73FB4C59295A00AF007484DB /* DetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73FB4C58295A00AF007484DB /* DetailsVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		73FB4C4D2959FD6B007484DB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		73FB4C502959FD6B007484DB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		73FB4C522959FD6B007484DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		73FB4C58295A00AF007484DB /* DetailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				73FB4C412959FD6A007484DB /* AppDelegate.swift */,
 				73FB4C432959FD6A007484DB /* SceneDelegate.swift */,
 				73FB4C452959FD6A007484DB /* ViewController.swift */,
+				73FB4C58295A00AF007484DB /* DetailsVC.swift */,
 				73FB4C472959FD6A007484DB /* Main.storyboard */,
 				73FB4C4D2959FD6B007484DB /* Assets.xcassets */,
 				73FB4C4F2959FD6B007484DB /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 				73FB4C422959FD6A007484DB /* AppDelegate.swift in Sources */,
 				73FB4C4C2959FD6A007484DB /* ArtBookApp.xcdatamodeld in Sources */,
 				73FB4C442959FD6A007484DB /* SceneDelegate.swift in Sources */,
+				73FB4C59295A00AF007484DB /* DetailsVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
